@@ -42,6 +42,7 @@ The project follows these main steps:
 
 The project demonstrates how EEG-based features can be used to distinguish between depressive and non-depressive cases. The confusion matrix and model outputs provide insights into classification performance.
 
+
 ## ▶️ How to Run
 
 1. Open the notebook:
@@ -58,7 +59,9 @@ The project demonstrates how EEG-based features can be used to distinguish betwe
 * `eeg-depression-detection.ipynb` – main notebook with full analysis and ML pipeline
 * `README.md` – project documentation
 
-## 📌 Notes
+
 
 * Dataset may not be included due to size or usage restrictions
 * This project was developed for research and educational purposes
+
+
